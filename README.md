@@ -38,7 +38,7 @@
 <h1>Solana token pumper bot includes: ✅</h1>
 
 <li>Token pumper</li>
-<li>Rug pull checker</li>
+<li>Token creator</li>
 <li>Autotrading bot with Whale's wallets</li>
 <li>Pump.fun sniper bot</li>
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3h1ZDgydjlyOHJ1ZDh5eTRidXJvcGpnMHI3ZDh6MXhocW15Mjk1NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/h26f7dQPNqXRjAb54O/giphy.gif" width="300"/>
