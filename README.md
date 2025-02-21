@@ -27,7 +27,7 @@
   
 </ol>
 
-<h1>Memecoin tracker:</h1>
+<h1>Solana memecoin checker:</h1>
 
 <li>Monitor Balances on addresses</li>
 <li>Get NFT price on addresses</li>
@@ -35,15 +35,16 @@
 <li>Track whale's addresses</li>
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm8wMmdmM3BybXZyYjRhc2pibnpnZDg1dmFlYzN6ZTJ6ejJ1aHZoZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QnU6mOrBbElaIQz4Fe/giphy.gif" width="300"/>
 
-<h1>Solana token pumper bot includes: ✅</h1>
+<h1>Solana token checker: ✅</h1>
 
 <li>Token pumper</li>
 <li>Token creator</li>
 <li>Autotrading bot with Whale's wallets</li>
-<li>Pump.fun sniper bot</li>
+
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3h1ZDgydjlyOHJ1ZDh5eTRidXJvcGpnMHI3ZDh6MXhocW15Mjk1NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/h26f7dQPNqXRjAb54O/giphy.gif" width="300"/>
 
-### Working solana bundle checker?🧊
+### Rug pull checker?🧊
+<li>Rug checker bot is easy! Just enter the token contract you want to check!</li>
 
 
 
