@@ -1,4 +1,4 @@
-<h1 align="center">Solana Meme coin  bundle checker | Memecoin tracker, token maker, pump fun
+<h1 align="center">Solana Meme coin  bundle checker | Memecoin tracker, token maker for pump fun
 </h1>
 
 <div id="badges" align="center">
