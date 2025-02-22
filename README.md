@@ -1,4 +1,4 @@
-<h1 align="center">Solana Meme coin  bundle checker | Memecoin tracker, token maker for pump fun
+<h1 align="center">Meme coin bundle checker | Pump fun meme coin value checker
 </h1>
 
 <div id="badges" align="center">
@@ -12,6 +12,11 @@
 | d2h...   |   164346$ |
 | 0x0... |    663412$ |
 ----
+
+### SEARCH FOR TOP MEME COINS
+
+
+
 <div>
 </div>
 </div>
@@ -27,12 +32,15 @@
   
 </ol>
 
+### Airdrop checker
+![image](https://github.com/user-attachments/assets/711af749-b7bd-4ee7-8fea-12286674f095)
+
 <h1>Solana memecoin checker:</h1>
 
-<li>Check solana addresses</li>
-<li>Memecoin rug checker</li>
-<li>Solana wallet checker</li>
-<li>Memecoin safety checker</li>
+<li>Coin values checker</li>
+<li>Meme coin price</li>
+<li>Coin checker</li>
+<li>New meme coins finder</li>
 
 ![image](https://github.com/user-attachments/assets/27c5b6c9-dd1f-44ac-a5b4-04ecf079525a)
 
@@ -45,8 +53,6 @@
 ### Rug pull checker?🧊
 <li>	Rug pull alert! Just enter the token contract you want to check!</li>
 
-### Airdrop checker
-![image](https://github.com/user-attachments/assets/711af749-b7bd-4ee7-8fea-12286674f095)
 
 
 
