@@ -32,8 +32,10 @@
   
 </ol>
 
-### Airdrop checker
-![image](https://github.com/user-attachments/assets/711af749-b7bd-4ee7-8fea-12286674f095)
+### Airdrop checker & Jupiter volume checker
+![Без имени-1](https://github.com/user-attachments/assets/4a14d285-19ed-461a-adfd-83e4835d8a87)
+
+
 
 <h1>Solana memecoin checker:</h1>
 
