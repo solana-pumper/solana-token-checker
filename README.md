@@ -32,8 +32,6 @@
   
 </ol>
 
-### Airdrop checker & Jupiter volume checker
-
 <h1>Solana memecoin checker:</h1>
 
 <li>Coin values checker</li>
