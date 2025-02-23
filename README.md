@@ -33,9 +33,6 @@
 </ol>
 
 ### Airdrop checker & Jupiter volume checker
-![Без имени-1](https://github.com/user-attachments/assets/4a14d285-19ed-461a-adfd-83e4835d8a87)
-
-
 
 <h1>Solana memecoin checker:</h1>
 
@@ -52,17 +49,7 @@
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3h1ZDgydjlyOHJ1ZDh5eTRidXJvcGpnMHI3ZDh6MXhocW15Mjk1NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/h26f7dQPNqXRjAb54O/giphy.gif" width="300"/>
 
-### Rug pull checker?🧊
-<li>	Rug pull alert! Just enter the token contract you want to check!</li>
+### Why this product?
+<p>Real-time Volume Tracking: Get up-to-date information on trading volumes across various exchanges. User-friendly Interface: Navigate effortlessly through our intuitive design. Open Source: Contribute to the project and help us improve by accessing the source code on GitHub.</p>
 
-
-
-
-
-When you start the software, you will see a menu with settings Most of the descriptions here are clear. I will explain what may not be clear. Check ALL - Check all wallets that are available. The software will check all wallets in turn Wait for new wallets. 
-
-
-
-
-
-              
+Join our project and help make the world of cryptocurrencies safer and more transparent! We welcome any feedback and suggestions for improvement. If you have any questions, feel free to reach out!
